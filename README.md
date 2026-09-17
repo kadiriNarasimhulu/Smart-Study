@@ -1,3 +1,4 @@
+![Smart Study Logo](logo.png)
 # 🎓 Smart Study
 
 Smart Study is a simple desktop study application designed to help students learn, plan, and track their progress.
